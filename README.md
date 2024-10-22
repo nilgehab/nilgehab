@@ -1,15 +1,17 @@
-<h1 align="center">ben bilgehan.</h1>
-<h3 align="center">matematik yaparım.</h3>
+# 💫 Hakkımda:
+ben bilgehan, matematik yaparım.<br>
 
 
-- 🔭 Şu anda [WebMat için çalışıyorum.](https://github.com/nilgehab/webmat)
+## 🌐 Sosyal:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bilgehandle) 
 
-<h3 align="left">Sosyal</h3>
-<p align="left">
-<a href="https://instagram.com/bilgehandle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bilgehandle" height="30" width="40" /></a>
-</p>
+# 💻 Teknolojiler:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub İstatistikleri:
+![](https://github-readme-stats.vercel.app/api?username=nilgehab&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nilgehab&theme=shadow_blue&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nilgehab&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<h3 align="left">--</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=nilgehab&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nilgehab&label=Profile%20views&color=0e75b6&style=flat" alt="nilgehab" /> </p>
